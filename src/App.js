@@ -10,6 +10,7 @@ constructor(props) {
       latitude:null,
       longitude:null,
        posts:{},
+       
 
   };
 
